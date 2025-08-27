@@ -1,0 +1,72 @@
+{
+  "data": {
+    "__": "data",
+    "smooth": {
+      "__": "smooth",
+      "constant value": {
+        "__": "constant_value",
+        "v": [
+          0
+        ]
+      },
+      "legend": {
+        "__": "legend",
+        "content": {
+          "__": "content",
+          "v": [
+            null
+          ]
+        },
+        "panel": {
+          "__": "panel",
+          "v": [
+            null
+          ]
+        }
+      },
+      "line": {
+        "__": "line",
+        "opacity": {
+          "__": "opacity",
+          "v": [
+            1.0
+          ]
+        },
+        "style": {
+          "__": "style",
+          "v": [
+            "-"
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            1.0
+          ]
+        }
+      },
+      "mode": {
+        "__": "mode",
+        "v": [
+          "nearest",
+          "reflect",
+          "constant",
+          "mirror",
+          "wrap"
+        ]
+      },
+      "origin": {
+        "__": "origin",
+        "v": [
+          0
+        ]
+      },
+      "window size": {
+        "__": "window_size",
+        "v": [
+          null
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,912 @@
+{
+  "data": {
+    "__": "data",
+    "bar": {
+      "__": "bar",
+      "align": {
+        "__": "align",
+        "v": [
+          "center",
+          "edge"
+        ]
+      },
+      "base line location": {
+        "__": "base_line_location",
+        "v": [
+          0
+        ]
+      },
+      "color": {
+        "__": "color",
+        "edge": {
+          "__": "edge",
+          "v": [
+            null
+          ]
+        },
+        "face": {
+          "__": "face",
+          "v": [
+            null
+          ]
+        }
+      },
+      "data column": {
+        "__": "data_column",
+        "x": {
+          "__": "x",
+          "v": [
+            null
+          ]
+        },
+        "y": {
+          "__": "y",
+          "v": [
+            null
+          ]
+        }
+      },
+      "line": {
+        "__": "line",
+        "width": {
+          "__": "width",
+          "v": [
+            null
+          ]
+        }
+      },
+      "location offset": {
+        "__": "location_offset",
+        "v": [
+          0
+        ]
+      },
+      "opacity": {
+        "__": "opacity",
+        "v": [
+          null
+        ]
+      },
+      "orientation": {
+        "__": "orientation",
+        "v": [
+          "vertical",
+          "horizontal"
+        ]
+      },
+      "row end": {
+        "__": "row_end",
+        "v": [
+          null
+        ]
+      },
+      "row start": {
+        "__": "row_start",
+        "v": [
+          0
+        ]
+      },
+      "width": {
+        "__": "width",
+        "v": [
+          0.8
+        ]
+      }
+    },
+    "color bar": {
+      "__": "color_bar",
+      "content": {
+        "__": "content",
+        "v": [
+          null
+        ]
+      },
+      "global": {
+        "__": "global",
+        "v": [
+          true,
+          false
+        ]
+      },
+      "show": {
+        "__": "show",
+        "v": [
+          false,
+          true
+        ]
+      },
+      "which panel": {
+        "__": "which_panel",
+        "v": [
+          null
+        ]
+      }
+    },
+    "error bar": {
+      "__": "error_bar",
+      "cap": {
+        "__": "cap",
+        "size": {
+          "__": "size",
+          "v": [
+            4
+          ]
+        },
+        "thickness": {
+          "__": "thickness",
+          "v": [
+            2
+          ]
+        }
+      },
+      "color": {
+        "__": "color",
+        "edge": {
+          "__": "edge",
+          "v": [
+            null
+          ]
+        }
+      },
+      "data column": {
+        "__": "data_column",
+        "x": {
+          "__": "x",
+          "v": [
+            null
+          ]
+        },
+        "y": {
+          "__": "y",
+          "v": [
+            null
+          ]
+        }
+      },
+      "line": {
+        "__": "line",
+        "width": {
+          "__": "width",
+          "v": [
+            null
+          ]
+        }
+      },
+      "resample window size": {
+        "__": "resample_window_size",
+        "v": [
+          1
+        ]
+      }
+    },
+    "file": {
+      "__": "file",
+      "v": [
+        null
+      ]
+    },
+    "id": {
+      "__": "id",
+      "v": [
+        null
+      ]
+    },
+    "include columns": {
+      "__": "include_columns",
+      "v": [
+        null
+      ]
+    },
+    "legend": {
+      "__": "legend",
+      "content": {
+        "__": "content",
+        "v": [
+          null
+        ]
+      },
+      "which panel": {
+        "__": "which_panel",
+        "v": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    "line": {
+      "__": "line",
+      "color": {
+        "__": "color",
+        "v": [
+          null
+        ]
+      },
+      "data column": {
+        "__": "data_column",
+        "x": {
+          "__": "x",
+          "v": [
+            null
+          ]
+        },
+        "y": {
+          "__": "y",
+          "v": [
+            null
+          ]
+        }
+      },
+      "opacity": {
+        "__": "opacity",
+        "v": [
+          1.0
+        ]
+      },
+      "row end": {
+        "__": "row_end",
+        "v": [
+          null
+        ]
+      },
+      "row start": {
+        "__": "row_start",
+        "v": [
+          0
+        ]
+      },
+      "style": {
+        "__": "style",
+        "v": [
+          "-"
+        ]
+      },
+      "which layer": {
+        "__": "which_layer",
+        "v": [
+          1
+        ]
+      },
+      "width": {
+        "__": "width",
+        "v": [
+          1.5
+        ]
+      }
+    },
+    "marker": {
+      "__": "marker",
+      "size": {
+        "__": "size",
+        "v": [
+          5
+        ]
+      },
+      "style": {
+        "__": "style",
+        "v": [
+          null
+        ]
+      }
+    },
+    "matrix": {
+      "__": "matrix",
+      "color map": {
+        "__": "color_map",
+        "v": [
+          "viridis",
+          "inferno",
+          "plasma",
+          "magma"
+        ]
+      },
+      "extent": {
+        "__": "extent",
+        "max": {
+          "__": "max",
+          "x": {
+            "__": "x",
+            "v": [
+              null
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              null
+            ]
+          }
+        },
+        "min": {
+          "__": "min",
+          "x": {
+            "__": "x",
+            "v": [
+              null
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              null
+            ]
+          }
+        }
+      },
+      "interpolation": {
+        "__": "interpolation",
+        "v": [
+          "none",
+          "nearest",
+          "bilinear",
+          "bicubic",
+          "spline16",
+          "spline36",
+          "hanning",
+          "hamming",
+          "hermite",
+          "kaiser",
+          "quadric",
+          "catrom",
+          "gaussian",
+          "bessel",
+          "mitchell",
+          "sinc",
+          "lanczos"
+        ]
+      },
+      "normalize": {
+        "__": "normalize",
+        "v": [
+          null,
+          "log"
+        ]
+      },
+      "origin": {
+        "__": "origin",
+        "v": [
+          "lower",
+          "upper"
+        ]
+      },
+      "transpose": {
+        "__": "transpose",
+        "v": [
+          false
+        ]
+      },
+      "vertical": {
+        "__": "vertical",
+        "max": {
+          "__": "max",
+          "v": [
+            null
+          ]
+        },
+        "min": {
+          "__": "min",
+          "v": [
+            null
+          ]
+        }
+      }
+    },
+    "plot type": {
+      "__": "plot_type",
+      "v": [
+        "line",
+        "bar",
+        "matrix"
+      ]
+    },
+    "region": {
+      "__": "region",
+      "color": {
+        "__": "color",
+        "negative": {
+          "__": "negative",
+          "v": [
+            "k"
+          ]
+        },
+        "positive": {
+          "__": "positive",
+          "v": [
+            "k"
+          ]
+        }
+      },
+      "data column": {
+        "__": "data_column",
+        "x": {
+          "__": "x",
+          "v": [
+            0
+          ]
+        },
+        "y1": {
+          "__": "y1",
+          "v": [
+            1
+          ]
+        },
+        "y2": {
+          "__": "y2",
+          "v": [
+            2
+          ]
+        }
+      },
+      "edge": {
+        "__": "edge",
+        "color": {
+          "__": "color",
+          "v": [
+            "k"
+          ]
+        },
+        "opacity": {
+          "__": "opacity",
+          "v": [
+            1.0
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            0.5
+          ]
+        }
+      },
+      "interpolate": {
+        "__": "interpolate",
+        "negative": {
+          "__": "negative",
+          "v": [
+            true,
+            false
+          ]
+        },
+        "positive": {
+          "__": "positive",
+          "v": [
+            true,
+            false
+          ]
+        }
+      },
+      "opacity": {
+        "__": "opacity",
+        "negative": {
+          "__": "negative",
+          "v": [
+            0.5
+          ]
+        },
+        "positive": {
+          "__": "positive",
+          "v": [
+            0.5
+          ]
+        }
+      },
+      "row end": {
+        "__": "row_end",
+        "v": [
+          null
+        ]
+      },
+      "row start": {
+        "__": "row_start",
+        "v": [
+          0
+        ]
+      }
+    },
+    "rule": {
+      "__": "rule",
+      "color": {
+        "__": "color",
+        "v": [
+          null
+        ]
+      },
+      "horizontal": {
+        "__": "horizontal",
+        "at": {
+          "__": "at",
+          "v": [
+            null
+          ]
+        },
+        "max": {
+          "__": "max",
+          "v": [
+            1
+          ]
+        },
+        "min": {
+          "__": "min",
+          "v": [
+            0
+          ]
+        }
+      },
+      "line": {
+        "__": "line",
+        "style": {
+          "__": "style",
+          "v": [
+            "-",
+            "--",
+            "-.",
+            ":",
+            "None",
+            " ",
+            ""
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            1.5
+          ]
+        }
+      },
+      "opacity": {
+        "__": "opacity",
+        "v": [
+          1.0
+        ]
+      },
+      "vertical": {
+        "__": "vertical",
+        "at": {
+          "__": "at",
+          "v": [
+            null
+          ]
+        },
+        "max": {
+          "__": "max",
+          "v": [
+            1
+          ]
+        },
+        "min": {
+          "__": "min",
+          "v": [
+            0
+          ]
+        }
+      },
+      "which layer": {
+        "__": "which_layer",
+        "v": [
+          1
+        ]
+      }
+    },
+    "scatter": {
+      "__": "scatter",
+      "data column": {
+        "__": "data_column",
+        "x": {
+          "__": "x",
+          "v": [
+            null
+          ]
+        },
+        "y": {
+          "__": "y",
+          "v": [
+            null
+          ]
+        }
+      },
+      "edge": {
+        "__": "edge",
+        "color": {
+          "__": "color",
+          "v": [
+            null
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            null
+          ]
+        }
+      },
+      "marker": {
+        "__": "marker",
+        "color": {
+          "__": "color",
+          "v": [
+            null
+          ]
+        },
+        "size": {
+          "__": "size",
+          "v": [
+            50.0
+          ]
+        },
+        "style": {
+          "__": "style",
+          "v": [
+            "o",
+            "v",
+            ".",
+            ",",
+            "^",
+            "<",
+            ">",
+            "1",
+            "2",
+            "3",
+            "4",
+            "8",
+            "s",
+            "p",
+            "P",
+            "*",
+            "h",
+            "H",
+            "+",
+            "x",
+            "X",
+            "D",
+            "d"
+          ]
+        }
+      },
+      "opacity": {
+        "__": "opacity",
+        "v": [
+          1.0
+        ]
+      },
+      "row end": {
+        "__": "row_end",
+        "v": [
+          null
+        ]
+      },
+      "row start": {
+        "__": "row_start",
+        "v": [
+          0
+        ]
+      }
+    },
+    "skip rows": {
+      "__": "skip_rows",
+      "v": [
+        0
+      ]
+    },
+    "smooth": {
+      "__": "smooth",
+      "constant value": {
+        "__": "constant_value",
+        "v": [
+          0
+        ]
+      },
+      "legend": {
+        "__": "legend",
+        "content": {
+          "__": "content",
+          "v": [
+            null
+          ]
+        },
+        "panel": {
+          "__": "panel",
+          "v": [
+            null
+          ]
+        }
+      },
+      "line": {
+        "__": "line",
+        "opacity": {
+          "__": "opacity",
+          "v": [
+            1.0
+          ]
+        },
+        "style": {
+          "__": "style",
+          "v": [
+            "-"
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            1.0
+          ]
+        }
+      },
+      "mode": {
+        "__": "mode",
+        "v": [
+          "nearest",
+          "reflect",
+          "constant",
+          "mirror",
+          "wrap"
+        ]
+      },
+      "origin": {
+        "__": "origin",
+        "v": [
+          0
+        ]
+      },
+      "window size": {
+        "__": "window_size",
+        "v": [
+          null
+        ]
+      }
+    },
+    "span": {
+      "__": "span",
+      "color": {
+        "__": "color",
+        "edge": {
+          "__": "edge",
+          "v": [
+            null
+          ]
+        },
+        "face": {
+          "__": "face",
+          "v": [
+            null
+          ]
+        }
+      },
+      "filled": {
+        "__": "filled",
+        "v": [
+          true,
+          false
+        ]
+      },
+      "horizontal": {
+        "__": "horizontal",
+        "center": {
+          "__": "center",
+          "v": [
+            null
+          ]
+        },
+        "left": {
+          "__": "left",
+          "v": [
+            0
+          ]
+        },
+        "max": {
+          "__": "max",
+          "v": [
+            null
+          ]
+        },
+        "min": {
+          "__": "min",
+          "v": [
+            null
+          ]
+        },
+        "radius": {
+          "__": "radius",
+          "v": [
+            null
+          ]
+        },
+        "right": {
+          "__": "right",
+          "v": [
+            1
+          ]
+        }
+      },
+      "line": {
+        "__": "line",
+        "style": {
+          "__": "style",
+          "v": [
+            "-",
+            "--",
+            "-.",
+            ":",
+            "None",
+            " ",
+            ""
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            0
+          ]
+        }
+      },
+      "opacity": {
+        "__": "opacity",
+        "v": [
+          1.0
+        ]
+      },
+      "vertical": {
+        "__": "vertical",
+        "bottom": {
+          "__": "bottom",
+          "v": [
+            0
+          ]
+        },
+        "center": {
+          "__": "center",
+          "v": [
+            null
+          ]
+        },
+        "max": {
+          "__": "max",
+          "v": [
+            null
+          ]
+        },
+        "min": {
+          "__": "min",
+          "v": [
+            null
+          ]
+        },
+        "radius": {
+          "__": "radius",
+          "v": [
+            null
+          ]
+        },
+        "top": {
+          "__": "top",
+          "v": [
+            1
+          ]
+        }
+      },
+      "which layer": {
+        "__": "which_layer",
+        "v": [
+          1
+        ]
+      }
+    },
+    "values": {
+      "__": "values",
+      "v": [
+        null
+      ]
+    },
+    "which panel": {
+      "__": "which_panel",
+      "v": [
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  }
+}

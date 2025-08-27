@@ -1,0 +1,68 @@
+{
+  "local": {
+    "__": "local",
+    "axis": {
+      "__": "axis",
+      "hide": [
+        [
+          false
+        ]
+      ],
+      "spine": {
+        "__": "spine",
+        "bottom": {
+          "__": "bottom",
+          "color": [
+            [
+              null
+            ]
+          ],
+          "line width": [
+            [
+              null
+            ]
+          ]
+        },
+        "left": {
+          "__": "left",
+          "color": [
+            [
+              null
+            ]
+          ],
+          "line width": [
+            [
+              null
+            ]
+          ]
+        },
+        "right": {
+          "__": "right",
+          "color": [
+            [
+              null
+            ]
+          ],
+          "line width": [
+            [
+              null
+            ]
+          ]
+        },
+        "top": {
+          "__": "top",
+          "color": [
+            [
+              null
+            ]
+          ],
+          "line width": [
+            [
+              null
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

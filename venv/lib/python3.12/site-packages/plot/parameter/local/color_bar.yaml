@@ -1,0 +1,56 @@
+local:
+  color bar:
+    global:
+      v: [false, true]
+    orientation:
+      v: ['vertical', 'horizontal']
+    tick label:
+      color:
+        v: ['k']
+      font:
+        size:
+          v: [7]
+      format:
+        v: [~]
+    tick:
+      set:
+        v: [~]
+      width:
+        v: [0.5]
+      length:
+        v: [2]
+      color:
+        v: [k]
+    padding:
+      label and tick:
+        v: [5]
+      color bar and panel:
+        v: [0.01]
+    anchor:
+      v: [~]
+    shrink:
+      v: [1.0]
+    location:
+      v: ['right', 'left', 'top', 'bottom']
+    orientation:
+      v: ['vertical', 'horizontal']
+    fraction:
+      v: [0.1]
+    shrink:
+      v: [1.]
+    aspect:
+      v: [15]
+    anchor:
+      v: [[0, 0.5]]
+    parent_anchor:
+      v: [[1.0, 0.5]]
+    color:
+      show edges:
+        v: [false, true]
+      spacing:
+        v: ['uniform', 'proportional']
+      segment:
+        boundaries:
+          v: [~]
+        values:
+          v: [~]

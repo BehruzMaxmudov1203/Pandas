@@ -1,0 +1,20 @@
+{
+  "global": {
+    "__": "global",
+    "deps": {
+      "__": "deps",
+      "latex": {
+        "__": "latex",
+        "v": [
+          false
+        ]
+      },
+      "scipy": {
+        "__": "scipy",
+        "v": [
+          false
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+data:
+  error bar:
+    data column:
+      "x":
+        v: [~]
+      "y":
+        v: [~]
+    line:
+      width:
+        v: [~]
+    color:
+      edge:
+        v: [~]
+    cap:
+      size:
+        v: [4]
+      thickness:
+        v: [2]
+    resample window size:
+      v: [1]

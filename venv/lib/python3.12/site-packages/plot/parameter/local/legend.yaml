@@ -1,0 +1,54 @@
+local:
+  legend:
+    merged:
+      v: [true]
+    anchor:
+      coordinate:
+        v: [[0.97, 0.96]]
+      corner:
+        v: ["upper right"]
+    number of columns:
+      v: [1]
+    frame:
+      show:
+        v: [false]
+      opacity:
+        v: [0.5]
+    font:
+      size:
+        v: [12]
+      weight:
+        v: [500]
+    line:
+      width:
+        v: [8]
+    marker:
+      scale:
+        v: [1]
+      number of points:
+        v: [~]
+    handle length:
+      v: [0.7]
+    border padding:
+      v: [0.5]
+    vertical spacing:
+      v: [0.5]
+    padding between handle and text:
+      v: [0.5]
+    padding between border and axes:
+      v: [0]
+    column spacing:
+      v: [0.8]
+    face:
+      color:
+        v: [w]
+      opacity:
+        v: [1.0]
+    edge:
+      color:
+        v: [k]
+      opacity:
+        v: [1.0]
+    box:
+      rounded:
+        v: [true]

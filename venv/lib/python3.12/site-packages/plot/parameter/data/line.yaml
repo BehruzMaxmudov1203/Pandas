@@ -1,0 +1,21 @@
+data:
+  line:
+    width:
+      v: [1.5]
+    color:
+      v: [~]
+    style:
+      v: ['-']
+    opacity:
+      v: [1.0]
+    data column:
+      "x":
+        v: [~]
+      "y":
+        v: [~]
+    row start:
+      v: [0]
+    row end:
+      v: [~]
+    which layer:
+      v: [1]

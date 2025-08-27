@@ -1,0 +1,211 @@
+{
+  "global": {
+    "__": "global",
+    "figure": {
+      "__": "figure",
+      "title": {
+        "__": "title",
+        "alignment": {
+          "__": "alignment",
+          "horizontal": {
+            "__": "horizontal",
+            "v": [
+              "center",
+              "left",
+              "right"
+            ]
+          }
+        },
+        "anchor": {
+          "__": "anchor",
+          "x": {
+            "__": "x",
+            "v": [
+              null
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              1.03
+            ]
+          }
+        },
+        "background color": {
+          "__": "background_color",
+          "v": [
+            [
+              1,
+              1,
+              1,
+              0
+            ]
+          ]
+        },
+        "box": {
+          "__": "box",
+          "cap style": {
+            "__": "cap_style",
+            "v": [
+              "butt",
+              "round",
+              "projecting"
+            ]
+          },
+          "color": {
+            "__": "color",
+            "edge": {
+              "__": "edge",
+              "v": [
+                "k"
+              ]
+            },
+            "face": {
+              "__": "face",
+              "v": [
+                [
+                  1,
+                  1,
+                  1,
+                  0
+                ]
+              ]
+            }
+          },
+          "fill": {
+            "__": "fill",
+            "v": [
+              true,
+              false
+            ]
+          },
+          "join style": {
+            "__": "join_style",
+            "v": [
+              "miter",
+              "round",
+              "bevel"
+            ]
+          },
+          "line": {
+            "__": "line",
+            "style": {
+              "__": "style",
+              "v": [
+                "-",
+                "--",
+                "-.",
+                ":",
+                "None",
+                " ",
+                ""
+              ]
+            },
+            "width": {
+              "__": "width",
+              "v": [
+                1
+              ]
+            }
+          },
+          "tight": {
+            "__": "tight",
+            "v": [
+              false,
+              true
+            ]
+          },
+          "visible": {
+            "__": "visible",
+            "v": [
+              false,
+              true
+            ]
+          },
+          "which layer": {
+            "__": "which_layer",
+            "v": [
+              0
+            ]
+          }
+        },
+        "content": {
+          "__": "content",
+          "v": [
+            null
+          ]
+        },
+        "font": {
+          "__": "font",
+          "color": {
+            "__": "color",
+            "v": [
+              "k"
+            ]
+          },
+          "family": {
+            "__": "family",
+            "v": [
+              "sans-serif",
+              "serif",
+              "cursive",
+              "fantasy",
+              "monospace"
+            ]
+          },
+          "opacity": {
+            "__": "opacity",
+            "v": [
+              1.0
+            ]
+          },
+          "size": {
+            "__": "size",
+            "v": [
+              7
+            ]
+          },
+          "style": {
+            "__": "style",
+            "v": [
+              "normal",
+              "italic",
+              "oblique"
+            ]
+          },
+          "weight": {
+            "__": "weight",
+            "v": [
+              null
+            ]
+          }
+        },
+        "line spacing": {
+          "__": "line_spacing",
+          "v": [
+            1
+          ]
+        },
+        "rotation": {
+          "__": "rotation",
+          "v": [
+            0
+          ]
+        },
+        "visible": {
+          "__": "visible",
+          "v": [
+            true,
+            false
+          ]
+        },
+        "which_layer": {
+          "__": "which_layer",
+          "v": [
+            0
+          ]
+        }
+      }
+    }
+  }
+}

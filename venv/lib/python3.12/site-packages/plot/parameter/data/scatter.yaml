@@ -1,0 +1,49 @@
+data:
+  scatter:
+    marker:
+      size:
+        v: [50.0]
+      style:
+        v:
+        # http://matplotlib.org/api/markers_api.html#module-matplotlib.markers
+        - "o" # circle
+        - "v" # triangle up
+        - "." # point
+        - ',' # pixel
+        - "^"
+        - "<"
+        - ">"
+        - "1"
+        - "2"
+        - "3"
+        - "4"
+        - "8"
+        - "s"
+        - "p"
+        - "P"
+        - "*"
+        - "h"
+        - "H"
+        - "+"
+        - "x"
+        - "X"
+        - "D"
+        - "d"
+      color:
+        v: [~]
+    edge:
+      width:
+        v: [~]
+      color:
+        v: [~]
+    opacity:
+      v: [1.0]
+    data column:
+      "x":
+        v: [~]
+      "y":
+        v: [~]
+    row start:
+      v: [0]
+    row end:
+      v: [~]

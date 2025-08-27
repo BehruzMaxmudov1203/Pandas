@@ -1,0 +1,107 @@
+{
+  "data": {
+    "__": "data",
+    "matrix": {
+      "__": "matrix",
+      "color map": {
+        "__": "color_map",
+        "v": [
+          "viridis",
+          "inferno",
+          "plasma",
+          "magma"
+        ]
+      },
+      "extent": {
+        "__": "extent",
+        "max": {
+          "__": "max",
+          "x": {
+            "__": "x",
+            "v": [
+              null
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              null
+            ]
+          }
+        },
+        "min": {
+          "__": "min",
+          "x": {
+            "__": "x",
+            "v": [
+              null
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              null
+            ]
+          }
+        }
+      },
+      "interpolation": {
+        "__": "interpolation",
+        "v": [
+          "none",
+          "nearest",
+          "bilinear",
+          "bicubic",
+          "spline16",
+          "spline36",
+          "hanning",
+          "hamming",
+          "hermite",
+          "kaiser",
+          "quadric",
+          "catrom",
+          "gaussian",
+          "bessel",
+          "mitchell",
+          "sinc",
+          "lanczos"
+        ]
+      },
+      "normalize": {
+        "__": "normalize",
+        "v": [
+          null,
+          "log"
+        ]
+      },
+      "origin": {
+        "__": "origin",
+        "v": [
+          "lower",
+          "upper"
+        ]
+      },
+      "transpose": {
+        "__": "transpose",
+        "v": [
+          false
+        ]
+      },
+      "vertical": {
+        "__": "vertical",
+        "max": {
+          "__": "max",
+          "v": [
+            null
+          ]
+        },
+        "min": {
+          "__": "min",
+          "v": [
+            null
+          ]
+        }
+      }
+    }
+  }
+}

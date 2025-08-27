@@ -1,0 +1,34 @@
+{
+  "data": {
+    "__": "data",
+    "color bar": {
+      "__": "color_bar",
+      "content": {
+        "__": "content",
+        "v": [
+          null
+        ]
+      },
+      "global": {
+        "__": "global",
+        "v": [
+          true,
+          false
+        ]
+      },
+      "show": {
+        "__": "show",
+        "v": [
+          false,
+          true
+        ]
+      },
+      "which panel": {
+        "__": "which_panel",
+        "v": [
+          null
+        ]
+      }
+    }
+  }
+}

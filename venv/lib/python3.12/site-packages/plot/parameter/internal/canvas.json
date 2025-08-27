@@ -1,0 +1,32 @@
+{
+  "internal": {
+    "__": "internal",
+    "canvas": {
+      "__": "canvas",
+      "axes": {
+        "__": "axes",
+        "v": [
+          null
+        ]
+      },
+      "axes2D": {
+        "__": "axes2D",
+        "v": [
+          null
+        ]
+      },
+      "figure": {
+        "__": "figure",
+        "v": [
+          null
+        ]
+      },
+      "global axis": {
+        "__": "global_axis",
+        "v": [
+          null
+        ]
+      }
+    }
+  }
+}

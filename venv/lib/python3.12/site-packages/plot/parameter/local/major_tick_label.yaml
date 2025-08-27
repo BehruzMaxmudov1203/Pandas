@@ -1,0 +1,91 @@
+local:
+  tick label:
+    major:
+      font:
+        size:
+          "x":
+            v: [12]
+          "y":
+            v: [12]
+        weight:
+          "x":
+            v: [0]
+          "y":
+            v: [0]
+        family:
+          "x": 
+            v: [serif]
+          "y": 
+            v: [serif]
+        stretch:
+          "x":
+            v: [0]
+          "y":
+            v: [0]
+        style:
+          "x":
+            v: [normal, roman, italic, oblique]
+          "y":
+            v: [normal, roman, italic, oblique]
+      color:
+        "x": 
+          v: [k]
+        "y":
+          v: [k]
+      padding:
+        "x":
+          v: [10]
+        "y":
+          v: [10]
+      show:
+        top:
+          v: [false,true]
+        bottom:
+           v: [true,false]
+        left:
+          v: [true,false]
+        right:
+          v: [false,true]
+      decimals:
+        "x":
+          v: [~]
+        "y":
+          v: [~]
+      hide:
+        overlap:
+          "x":
+            v: [false,true]
+          "y":
+            v: [false,true]
+        first:
+          "x":
+            v: [false,true]
+          "y":
+            v: [false,true]
+        last:
+          "x":
+            v: [false,true]
+          "y":
+            v: [false,true]
+      rotation:
+        "x":
+          v: [~]
+        "y":
+          v: [~]
+      set:
+        "x":
+          v: [~]
+        "y":
+          v: [~]
+      format:
+        style:
+          "x":
+            v: [plain, sci]
+          "y":
+            v: [plain, sci]
+        sci_font_size:
+          "x":
+            v: [10]
+          "y":
+            v: [10]
+

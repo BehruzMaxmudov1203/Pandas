@@ -1,0 +1,52 @@
+{
+  "data": {
+    "__": "data",
+    "file": {
+      "__": "file",
+      "v": [
+        null
+      ]
+    },
+    "id": {
+      "__": "id",
+      "v": [
+        null
+      ]
+    },
+    "include columns": {
+      "__": "include_columns",
+      "v": [
+        null
+      ]
+    },
+    "plot type": {
+      "__": "plot_type",
+      "v": [
+        "line",
+        "bar",
+        "matrix"
+      ]
+    },
+    "skip rows": {
+      "__": "skip_rows",
+      "v": [
+        0
+      ]
+    },
+    "values": {
+      "__": "values",
+      "v": [
+        null
+      ]
+    },
+    "which panel": {
+      "__": "which_panel",
+      "v": [
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  }
+}

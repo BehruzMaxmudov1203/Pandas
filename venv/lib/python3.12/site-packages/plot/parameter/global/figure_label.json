@@ -1,0 +1,107 @@
+{
+  "figure": {
+    "__": "figure",
+    "label": {
+      "__": "label",
+      "alignment": {
+        "__": "alignment",
+        "horizontal": {
+          "__": "horizontal",
+          "v": [
+            "left"
+          ]
+        },
+        "vertical": {
+          "__": "vertical",
+          "v": [
+            "center"
+          ]
+        }
+      },
+      "box": {
+        "__": "box",
+        "anchor": {
+          "__": "anchor",
+          "v": [
+            [
+              0.01,
+              0.9
+            ]
+          ]
+        },
+        "edge color": {
+          "__": "edge_color",
+          "v": [
+            "w"
+          ]
+        },
+        "face color": {
+          "__": "face_color",
+          "v": [
+            "w"
+          ]
+        },
+        "line": {
+          "__": "line",
+          "style": {
+            "__": "style",
+            "v": [
+              "solid"
+            ]
+          },
+          "width": {
+            "__": "width",
+            "v": [
+              1
+            ]
+          }
+        },
+        "opacity": {
+          "__": "opacity",
+          "v": [
+            0.8
+          ]
+        },
+        "padding": {
+          "__": "padding",
+          "v": [
+            0.2
+          ]
+        },
+        "shape": {
+          "__": "shape",
+          "v": [
+            "square"
+          ]
+        }
+      },
+      "content": {
+        "__": "content",
+        "v": [
+          null
+        ]
+      },
+      "font": {
+        "__": "font",
+        "size": {
+          "__": "size",
+          "v": [
+            12
+          ]
+        },
+        "weight": {
+          "__": "weight",
+          "v": [
+            500
+          ]
+        }
+      },
+      "rotation": {
+        "__": "rotation",
+        "v": [
+          0
+        ]
+      }
+    }
+  }
+}

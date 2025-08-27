@@ -1,0 +1,99 @@
+{
+  "data": {
+    "__": "data",
+    "scatter": {
+      "__": "scatter",
+      "data column": {
+        "__": "data_column",
+        "x": {
+          "__": "x",
+          "v": [
+            null
+          ]
+        },
+        "y": {
+          "__": "y",
+          "v": [
+            null
+          ]
+        }
+      },
+      "edge": {
+        "__": "edge",
+        "color": {
+          "__": "color",
+          "v": [
+            null
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            null
+          ]
+        }
+      },
+      "marker": {
+        "__": "marker",
+        "color": {
+          "__": "color",
+          "v": [
+            null
+          ]
+        },
+        "size": {
+          "__": "size",
+          "v": [
+            50.0
+          ]
+        },
+        "style": {
+          "__": "style",
+          "v": [
+            "o",
+            "v",
+            ".",
+            ",",
+            "^",
+            "<",
+            ">",
+            "1",
+            "2",
+            "3",
+            "4",
+            "8",
+            "s",
+            "p",
+            "P",
+            "*",
+            "h",
+            "H",
+            "+",
+            "x",
+            "X",
+            "D",
+            "d"
+          ]
+        }
+      },
+      "opacity": {
+        "__": "opacity",
+        "v": [
+          1.0
+        ]
+      },
+      "row end": {
+        "__": "row_end",
+        "v": [
+          null
+        ]
+      },
+      "row start": {
+        "__": "row_start",
+        "v": [
+          0
+        ]
+      }
+    }
+  }
+}

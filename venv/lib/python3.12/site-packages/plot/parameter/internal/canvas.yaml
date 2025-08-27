@@ -1,0 +1,10 @@
+internal:
+  canvas:
+    figure:
+      v: [~]
+    axes:
+      v: [~]
+    axes2D:
+      v: [~]
+    global axis:
+      v: [~]

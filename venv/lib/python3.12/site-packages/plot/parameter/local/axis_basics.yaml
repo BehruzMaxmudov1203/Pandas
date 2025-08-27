@@ -1,0 +1,25 @@
+local:
+  axis:
+    hide:
+      - [false]
+    spine:
+      top:
+        color:
+          - [null]
+        line width:
+          - [null]
+      bottom:
+        color:
+          - [null]
+        line width:
+          - [null]
+      left:
+        color:
+          - [null]
+        line width:
+          - [null]
+      right:
+        color:
+          - [null]
+        line width:
+          - [null]

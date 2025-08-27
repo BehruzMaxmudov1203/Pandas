@@ -1,0 +1,35 @@
+data:
+  region:
+    data column:
+      x:
+        v: [0]
+      y1:
+        v: [1]
+      y2:
+        v: [2]
+    color:
+      positive:
+        v: ['k']
+      negative:
+        v: ['k']
+    opacity:
+      positive:
+        v: [0.5]
+      negative:
+        v: [0.5]
+    edge:
+      color:
+        v: ['k']
+      width:
+        v: [0.5]
+      opacity:
+        v: [1.0]
+    interpolate:
+      positive:
+        v: [true, false]
+      negative:
+        v: [true, false]
+    row start:
+      v: [0]
+    row end:
+      v: [~]

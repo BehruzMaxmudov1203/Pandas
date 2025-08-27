@@ -1,0 +1,109 @@
+{
+  "data": {
+    "__": "data",
+    "region": {
+      "__": "region",
+      "color": {
+        "__": "color",
+        "negative": {
+          "__": "negative",
+          "v": [
+            "k"
+          ]
+        },
+        "positive": {
+          "__": "positive",
+          "v": [
+            "k"
+          ]
+        }
+      },
+      "data column": {
+        "__": "data_column",
+        "x": {
+          "__": "x",
+          "v": [
+            0
+          ]
+        },
+        "y1": {
+          "__": "y1",
+          "v": [
+            1
+          ]
+        },
+        "y2": {
+          "__": "y2",
+          "v": [
+            2
+          ]
+        }
+      },
+      "edge": {
+        "__": "edge",
+        "color": {
+          "__": "color",
+          "v": [
+            "k"
+          ]
+        },
+        "opacity": {
+          "__": "opacity",
+          "v": [
+            1.0
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            0.5
+          ]
+        }
+      },
+      "interpolate": {
+        "__": "interpolate",
+        "negative": {
+          "__": "negative",
+          "v": [
+            true,
+            false
+          ]
+        },
+        "positive": {
+          "__": "positive",
+          "v": [
+            true,
+            false
+          ]
+        }
+      },
+      "opacity": {
+        "__": "opacity",
+        "negative": {
+          "__": "negative",
+          "v": [
+            0.5
+          ]
+        },
+        "positive": {
+          "__": "positive",
+          "v": [
+            0.5
+          ]
+        }
+      },
+      "row end": {
+        "__": "row_end",
+        "v": [
+          null
+        ]
+      },
+      "row start": {
+        "__": "row_start",
+        "v": [
+          0
+        ]
+      }
+    }
+  }
+}

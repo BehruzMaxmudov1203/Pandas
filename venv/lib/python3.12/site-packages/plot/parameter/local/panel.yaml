@@ -1,0 +1,39 @@
+local:
+  panel:
+    box:
+      face color:
+        v: [w]
+      edge color:
+        v: [w]
+      opacity:
+        v: [0.8]
+      padding:
+        v: [0.2]
+      line:
+        width:
+          v: [1]
+        style:
+          v: [solid]
+      shape:
+        v: [square]
+      anchor:
+        coordinate:
+          v: [[0.01, 0.9]]
+    color bar:
+      show:
+        v: [true]
+      size:
+        v: [1.0]
+      location:
+        v: [right]
+      padding:
+        v: [0.3]
+    subdivision:
+      new panel indexes:
+        v: [~]
+      sizes:
+        v: [[1.0]]
+      positions:
+        v: [[right]]
+      paddings:
+        v: [[0.3]]

@@ -1,0 +1,31 @@
+data:
+  bar:
+    base line location:
+      v: [0]
+    width:
+      v: [0.8]
+    color:
+      face:
+        v: [~]
+      edge:
+        v: [~]
+    opacity:
+      v: [~]
+    line:
+      width:
+        v: [~]
+    orientation:
+      v: ['vertical','horizontal']
+    location offset:
+      v: [0]
+    align:
+      v: ['center', 'edge']
+    data column:
+      "x":
+        v: [~]
+      "y":
+        v: [~]
+    row start:
+      v: [0]
+    row end:
+      v: [~]

@@ -1,0 +1,128 @@
+{
+  "local": {
+    "__": "local",
+    "panel": {
+      "__": "panel",
+      "box": {
+        "__": "box",
+        "anchor": {
+          "__": "anchor",
+          "coordinate": {
+            "__": "coordinate",
+            "v": [
+              [
+                0.01,
+                0.9
+              ]
+            ]
+          }
+        },
+        "edge color": {
+          "__": "edge_color",
+          "v": [
+            "w"
+          ]
+        },
+        "face color": {
+          "__": "face_color",
+          "v": [
+            "w"
+          ]
+        },
+        "line": {
+          "__": "line",
+          "style": {
+            "__": "style",
+            "v": [
+              "solid"
+            ]
+          },
+          "width": {
+            "__": "width",
+            "v": [
+              1
+            ]
+          }
+        },
+        "opacity": {
+          "__": "opacity",
+          "v": [
+            0.8
+          ]
+        },
+        "padding": {
+          "__": "padding",
+          "v": [
+            0.2
+          ]
+        },
+        "shape": {
+          "__": "shape",
+          "v": [
+            "square"
+          ]
+        }
+      },
+      "color bar": {
+        "__": "color_bar",
+        "location": {
+          "__": "location",
+          "v": [
+            "right"
+          ]
+        },
+        "padding": {
+          "__": "padding",
+          "v": [
+            0.3
+          ]
+        },
+        "show": {
+          "__": "show",
+          "v": [
+            true
+          ]
+        },
+        "size": {
+          "__": "size",
+          "v": [
+            1.0
+          ]
+        }
+      },
+      "subdivision": {
+        "__": "subdivision",
+        "new panel indexes": {
+          "__": "new_panel_indexes",
+          "v": [
+            null
+          ]
+        },
+        "paddings": {
+          "__": "paddings",
+          "v": [
+            [
+              0.3
+            ]
+          ]
+        },
+        "positions": {
+          "__": "positions",
+          "v": [
+            [
+              "right"
+            ]
+          ]
+        },
+        "sizes": {
+          "__": "sizes",
+          "v": [
+            [
+              1.0
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

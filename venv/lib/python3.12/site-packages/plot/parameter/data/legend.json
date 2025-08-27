@@ -1,0 +1,25 @@
+{
+  "data": {
+    "__": "data",
+    "legend": {
+      "__": "legend",
+      "content": {
+        "__": "content",
+        "v": [
+          null
+        ]
+      },
+      "which panel": {
+        "__": "which_panel",
+        "v": [
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ]
+      }
+    }
+  }
+}

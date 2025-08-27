@@ -1,0 +1,255 @@
+{
+  "local": {
+    "__": "local",
+    "tick label": {
+      "__": "tick_label",
+      "minor": {
+        "__": "minor",
+        "color": {
+          "__": "color",
+          "x": {
+            "__": "x",
+            "v": [
+              "k"
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              "k"
+            ]
+          }
+        },
+        "decimals": {
+          "__": "decimals",
+          "x": {
+            "__": "x",
+            "v": [
+              null
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              null
+            ]
+          }
+        },
+        "font": {
+          "__": "font",
+          "family": {
+            "__": "family",
+            "x": {
+              "__": "x",
+              "v": [
+                "serif"
+              ]
+            },
+            "y": {
+              "__": "y",
+              "v": [
+                "serif"
+              ]
+            }
+          },
+          "size": {
+            "__": "size",
+            "x": {
+              "__": "x",
+              "v": [
+                30
+              ]
+            },
+            "y": {
+              "__": "y",
+              "v": [
+                30
+              ]
+            }
+          },
+          "stretch": {
+            "__": "stretch",
+            "x": {
+              "__": "x",
+              "v": [
+                0
+              ]
+            },
+            "y": {
+              "__": "y",
+              "v": [
+                0
+              ]
+            }
+          },
+          "style": {
+            "__": "style",
+            "x": {
+              "__": "x",
+              "v": [
+                "normal",
+                "roman",
+                "italic",
+                "oblique"
+              ]
+            },
+            "y": {
+              "__": "y",
+              "v": [
+                "normal",
+                "roman",
+                "italic",
+                "oblique"
+              ]
+            }
+          },
+          "weight": {
+            "__": "weight",
+            "x": {
+              "__": "x",
+              "v": [
+                0
+              ]
+            },
+            "y": {
+              "__": "y",
+              "v": [
+                0
+              ]
+            }
+          }
+        },
+        "hide": {
+          "__": "hide",
+          "first": {
+            "__": "first",
+            "x": {
+              "__": "x",
+              "v": [
+                false,
+                true
+              ]
+            },
+            "y": {
+              "__": "y",
+              "v": [
+                false,
+                true
+              ]
+            }
+          },
+          "last": {
+            "__": "last",
+            "x": {
+              "__": "x",
+              "v": [
+                false,
+                true
+              ]
+            },
+            "y": {
+              "__": "y",
+              "v": [
+                false,
+                true
+              ]
+            }
+          },
+          "overlap": {
+            "__": "overlap",
+            "x": {
+              "__": "x",
+              "v": [
+                false,
+                true
+              ]
+            },
+            "y": {
+              "__": "y",
+              "v": [
+                false,
+                true
+              ]
+            }
+          }
+        },
+        "padding": {
+          "__": "padding",
+          "x": {
+            "__": "x",
+            "v": [
+              10
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              10
+            ]
+          }
+        },
+        "rotation": {
+          "__": "rotation",
+          "x": {
+            "__": "x",
+            "v": [
+              null
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              null
+            ]
+          }
+        },
+        "set": {
+          "__": "set",
+          "x": {
+            "__": "x",
+            "v": [
+              null
+            ]
+          },
+          "y": {
+            "__": "y",
+            "v": [
+              null
+            ]
+          }
+        },
+        "show": {
+          "__": "show",
+          "bottom": {
+            "__": "bottom",
+            "v": [
+              true,
+              false
+            ]
+          },
+          "left": {
+            "__": "left",
+            "v": [
+              true,
+              false
+            ]
+          },
+          "right": {
+            "__": "right",
+            "v": [
+              false,
+              true
+            ]
+          },
+          "top": {
+            "__": "top",
+            "v": [
+              false,
+              true
+            ]
+          }
+        }
+      }
+    }
+  }
+}

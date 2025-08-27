@@ -1,0 +1,32 @@
+data:
+  rule:
+    vertical:
+      at:
+        v: [~]
+      min:
+        v: [0]
+      max:
+        v: [1]
+
+    horizontal:
+      at:
+        v: [~]
+      min:
+        v: [0]
+      max:
+        v: [1]
+
+    color:
+        v: [~]
+
+    opacity:
+      v: [1.0]
+
+    line:
+      style:
+        v: ['-', '--', '-.', ':', 'None', ' ', '']
+      width:
+        v: [1.5]
+
+    which layer:
+      v: [1]

@@ -1,0 +1,22 @@
+data:
+  smooth:
+    window size:
+      v: [~]
+    legend:
+      content:
+        v: [~]
+      panel:
+        v: [~]
+    line:
+      width:
+        v: [1.0]
+      style:
+        v: ['-']
+      opacity:
+        v: [1.0]
+    mode:
+      v: [nearest, reflect, constant, mirror, wrap]
+    constant value:
+      v: [0]
+    origin:
+      v: [0]

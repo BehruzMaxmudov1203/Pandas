@@ -1,0 +1,141 @@
+{
+  "data": {
+    "__": "data",
+    "span": {
+      "__": "span",
+      "color": {
+        "__": "color",
+        "edge": {
+          "__": "edge",
+          "v": [
+            null
+          ]
+        },
+        "face": {
+          "__": "face",
+          "v": [
+            null
+          ]
+        }
+      },
+      "filled": {
+        "__": "filled",
+        "v": [
+          true,
+          false
+        ]
+      },
+      "horizontal": {
+        "__": "horizontal",
+        "center": {
+          "__": "center",
+          "v": [
+            null
+          ]
+        },
+        "left": {
+          "__": "left",
+          "v": [
+            0
+          ]
+        },
+        "max": {
+          "__": "max",
+          "v": [
+            null
+          ]
+        },
+        "min": {
+          "__": "min",
+          "v": [
+            null
+          ]
+        },
+        "radius": {
+          "__": "radius",
+          "v": [
+            null
+          ]
+        },
+        "right": {
+          "__": "right",
+          "v": [
+            1
+          ]
+        }
+      },
+      "line": {
+        "__": "line",
+        "style": {
+          "__": "style",
+          "v": [
+            "-",
+            "--",
+            "-.",
+            ":",
+            "None",
+            " ",
+            ""
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            0
+          ]
+        }
+      },
+      "opacity": {
+        "__": "opacity",
+        "v": [
+          1.0
+        ]
+      },
+      "vertical": {
+        "__": "vertical",
+        "bottom": {
+          "__": "bottom",
+          "v": [
+            0
+          ]
+        },
+        "center": {
+          "__": "center",
+          "v": [
+            null
+          ]
+        },
+        "max": {
+          "__": "max",
+          "v": [
+            null
+          ]
+        },
+        "min": {
+          "__": "min",
+          "v": [
+            null
+          ]
+        },
+        "radius": {
+          "__": "radius",
+          "v": [
+            null
+          ]
+        },
+        "top": {
+          "__": "top",
+          "v": [
+            1
+          ]
+        }
+      },
+      "which layer": {
+        "__": "which_layer",
+        "v": [
+          1
+        ]
+      }
+    }
+  }
+}

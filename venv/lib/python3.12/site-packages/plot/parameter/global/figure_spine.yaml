@@ -1,0 +1,6 @@
+global:
+  figure:
+    spine:
+      line:
+        width: 
+          v: [1.5]

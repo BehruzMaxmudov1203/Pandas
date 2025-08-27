@@ -1,0 +1,19 @@
+local:
+  grid:
+    show:
+      v: [false,true]
+    which ticks:
+      v: [major, minor, both]
+    which axis:
+      v: [both, x, "y"]
+    line:
+      color:
+        v: [k]
+      opacity:
+        v: [0.4]
+      width:
+        v: [1]
+      style:
+        v: [":", "--", "-", "None", " ", ""]
+    which layer:
+      v: [1]

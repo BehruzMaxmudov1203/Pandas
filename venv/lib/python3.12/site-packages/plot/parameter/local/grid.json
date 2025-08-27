@@ -1,0 +1,69 @@
+{
+  "local": {
+    "__": "local",
+    "grid": {
+      "__": "grid",
+      "line": {
+        "__": "line",
+        "color": {
+          "__": "color",
+          "v": [
+            "k"
+          ]
+        },
+        "opacity": {
+          "__": "opacity",
+          "v": [
+            0.4
+          ]
+        },
+        "style": {
+          "__": "style",
+          "v": [
+            ":",
+            "--",
+            "-",
+            "None",
+            " ",
+            ""
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            1
+          ]
+        }
+      },
+      "show": {
+        "__": "show",
+        "v": [
+          false,
+          true
+        ]
+      },
+      "which axis": {
+        "__": "which_axis",
+        "v": [
+          "both",
+          "x",
+          "y"
+        ]
+      },
+      "which layer": {
+        "__": "which_layer",
+        "v": [
+          1
+        ]
+      },
+      "which ticks": {
+        "__": "which_ticks",
+        "v": [
+          "major",
+          "minor",
+          "both"
+        ]
+      }
+    }
+  }
+}

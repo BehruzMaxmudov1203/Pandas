@@ -1,0 +1,20 @@
+{
+  "global": {
+    "__": "global",
+    "figure": {
+      "__": "figure",
+      "spine": {
+        "__": "spine",
+        "line": {
+          "__": "line",
+          "width": {
+            "__": "width",
+            "v": [
+              1.5
+            ]
+          }
+        }
+      }
+    }
+  }
+}

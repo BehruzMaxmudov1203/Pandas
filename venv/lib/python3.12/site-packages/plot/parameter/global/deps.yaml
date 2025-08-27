@@ -1,0 +1,6 @@
+global:
+  deps:
+    latex:
+      v: [false]
+    scipy:
+      v: [false]

@@ -1,0 +1,59 @@
+global: 
+  figure:
+    title:
+      visible:
+        v: [true, false]
+      content:
+        v: [~]
+      font:
+        size:
+          v: [7]
+        weight:
+          v: [~]
+        color:
+          v: [k]
+        opacity:
+          v: [1.0]
+        family:
+          v: [sans-serif, serif, cursive, fantasy, monospace]
+        style:
+          v: [normal, italic, oblique]
+      line spacing:
+        v: [1]
+      background color:
+        v: [[1,1,1,0]]
+      which_layer:
+        v: [0]
+      rotation:
+        v: [0]
+      alignment:
+        horizontal:
+          v: [center, left, right]
+      anchor:
+        "x":
+          v: [~]
+        "y":
+          v: [1.03]
+      box:
+        visible:
+          v: [false, true]
+        color:
+          face:
+            v: [[1,1,1,0]]
+          edge:
+            v: [k]
+        line:
+          style:
+            v: ['-', '--', '-.', ':', 'None', ' ', '']
+          width:
+            v: [1]
+        which layer:
+          v: [0]
+        cap style:
+          v: [butt, round, projecting]
+        join style:
+          v: [miter, round, bevel]
+        tight:
+          v: [false, true]
+        fill:
+          v: [true, false]

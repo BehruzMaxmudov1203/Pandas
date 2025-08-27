@@ -1,0 +1,27 @@
+global:
+  text:
+  - content:
+      v: [null]
+    "x":
+      v: [0.7]
+    "y":
+      v: [0.8]
+    font:
+      size:
+        v: [12]
+      color:
+        v: [k]
+      opacity:
+        v: [1.0]
+    background:
+      color:
+        v: [w]
+      opacity:
+        v: [0]
+    alignment:
+      horizontal:
+        v: [left]
+      vertical:
+        v: [center]
+    rotation:
+      v: [0]

@@ -1,0 +1,165 @@
+{
+  "local": {
+    "__": "local",
+    "color bar": {
+      "__": "color_bar",
+      "anchor": {
+        "__": "anchor",
+        "v": [
+          [
+            0,
+            0.5
+          ]
+        ]
+      },
+      "aspect": {
+        "__": "aspect",
+        "v": [
+          15
+        ]
+      },
+      "color": {
+        "__": "color",
+        "segment": {
+          "__": "segment",
+          "boundaries": {
+            "__": "boundaries",
+            "v": [
+              null
+            ]
+          },
+          "values": {
+            "__": "values",
+            "v": [
+              null
+            ]
+          }
+        },
+        "show edges": {
+          "__": "show_edges",
+          "v": [
+            false,
+            true
+          ]
+        },
+        "spacing": {
+          "__": "spacing",
+          "v": [
+            "uniform",
+            "proportional"
+          ]
+        }
+      },
+      "fraction": {
+        "__": "fraction",
+        "v": [
+          0.1
+        ]
+      },
+      "global": {
+        "__": "global",
+        "v": [
+          false,
+          true
+        ]
+      },
+      "location": {
+        "__": "location",
+        "v": [
+          "right",
+          "left",
+          "top",
+          "bottom"
+        ]
+      },
+      "orientation": {
+        "__": "orientation",
+        "v": [
+          "vertical",
+          "horizontal"
+        ]
+      },
+      "padding": {
+        "__": "padding",
+        "color bar and panel": {
+          "__": "color_bar_and_panel",
+          "v": [
+            0.01
+          ]
+        },
+        "label and tick": {
+          "__": "label_and_tick",
+          "v": [
+            5
+          ]
+        }
+      },
+      "parent_anchor": {
+        "__": "parent_anchor",
+        "v": [
+          [
+            1.0,
+            0.5
+          ]
+        ]
+      },
+      "shrink": {
+        "__": "shrink",
+        "v": [
+          1.0
+        ]
+      },
+      "tick": {
+        "__": "tick",
+        "color": {
+          "__": "color",
+          "v": [
+            "k"
+          ]
+        },
+        "length": {
+          "__": "length",
+          "v": [
+            2
+          ]
+        },
+        "set": {
+          "__": "set",
+          "v": [
+            null
+          ]
+        },
+        "width": {
+          "__": "width",
+          "v": [
+            0.5
+          ]
+        }
+      },
+      "tick label": {
+        "__": "tick_label",
+        "color": {
+          "__": "color",
+          "v": [
+            "k"
+          ]
+        },
+        "font": {
+          "__": "font",
+          "size": {
+            "__": "size",
+            "v": [
+              7
+            ]
+          }
+        },
+        "format": {
+          "__": "format",
+          "v": [
+            null
+          ]
+        }
+      }
+    }
+  }
+}

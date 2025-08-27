@@ -1,0 +1,43 @@
+internal:
+  __: internal
+  available:
+    __: available
+    plot types:
+      __: plot_types
+      v:
+      - [line, span, bar, matrix, region, rule, scatter]
+  canvas:
+    __: canvas
+    axes:
+      __: axes
+      v: [null]
+    axes2D:
+      __: axes2D
+      v: [null]
+    figure:
+      __: figure
+      v: [null]
+    global axis:
+      __: global_axis
+      v: [null]
+  default:
+    __: default
+    local:
+      __: local
+      v: [null]
+  figure dimension:
+    __: figure_dimension
+    v: [5]
+  panel:
+    __: panel
+    legend:
+      __: legend
+      v: [null]
+    minmax:
+      __: minmax
+      v: [null]
+  user:
+    __: user
+    plots:
+      __: plots
+      v: [null]

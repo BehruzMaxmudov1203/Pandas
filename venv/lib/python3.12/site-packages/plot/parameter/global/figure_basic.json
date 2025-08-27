@@ -1,0 +1,154 @@
+{
+  "global": {
+    "__": "global",
+    "figure": {
+      "__": "figure",
+      "color": {
+        "__": "color",
+        "edge": {
+          "__": "edge",
+          "v": [
+            null
+          ]
+        },
+        "face": {
+          "__": "face",
+          "v": [
+            null
+          ]
+        }
+      },
+      "columns": {
+        "__": "columns",
+        "v": [
+          1
+        ]
+      },
+      "frame": {
+        "__": "frame",
+        "show": {
+          "__": "show",
+          "v": [
+            true,
+            false
+          ]
+        }
+      },
+      "height": {
+        "__": "height",
+        "v": [
+          2.0
+        ]
+      },
+      "layout": {
+        "__": "layout",
+        "padding": {
+          "__": "padding",
+          "figure": {
+            "__": "figure",
+            "v": [
+              0
+            ]
+          },
+          "horizontal": {
+            "__": "horizontal",
+            "v": [
+              null
+            ]
+          },
+          "rectangle": {
+            "__": "rectangle",
+            "v": [
+              [
+                0,
+                0,
+                1,
+                1
+              ]
+            ]
+          },
+          "vertical": {
+            "__": "vertical",
+            "v": [
+              null
+            ]
+          }
+        },
+        "tight": {
+          "__": "tight",
+          "v": [
+            true,
+            false
+          ]
+        }
+      },
+      "outputs": {
+        "__": "outputs",
+        "v": [
+          [
+            "out.png"
+          ]
+        ]
+      },
+      "rows": {
+        "__": "rows",
+        "v": [
+          1
+        ]
+      },
+      "save": {
+        "__": "save",
+        "bounding box": {
+          "__": "bounding_box",
+          "v": [
+            null,
+            "tight"
+          ]
+        },
+        "dpi": {
+          "__": "dpi",
+          "v": [
+            300
+          ]
+        },
+        "padding": {
+          "__": "padding",
+          "v": [
+            0
+          ]
+        },
+        "transparent": {
+          "__": "transparent",
+          "v": [
+            false,
+            true
+          ]
+        }
+      },
+      "subplot": {
+        "__": "subplot",
+        "spacing": {
+          "__": "spacing",
+          "horizontal": {
+            "__": "horizontal",
+            "v": [
+              null
+            ]
+          },
+          "vertical": {
+            "__": "vertical",
+            "v": [
+              null
+            ]
+          }
+        }
+      },
+      "width": {
+        "__": "width",
+        "v": [
+          4.0
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+data:
+  color bar:
+    show:
+      v: [false, true]
+    content:
+      v: [~]
+    which panel:
+      v: [~]
+    global:
+      v: [true, false]

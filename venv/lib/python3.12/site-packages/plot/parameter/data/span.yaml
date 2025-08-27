@@ -1,0 +1,46 @@
+data:
+  span:
+    vertical:
+      min:
+        v: [~]
+      max:
+        v: [~]
+      top:
+        v: [1]
+      bottom:
+        v: [0]
+      center:
+        v: [~]
+      radius:
+        v: [~]
+
+    horizontal:
+      min:
+        v: [~]
+      max:
+        v: [~]
+      left:
+        v: [0]
+      right:
+        v: [1]
+      center:
+        v: [~]
+      radius:
+        v: [~]
+
+    color:
+      face:
+        v: [~]
+      edge:
+        v: [~]
+    opacity:
+      v: [1.0]
+    line:
+      style:
+        v: ['-', '--', '-.', ':', 'None', ' ', '']
+      width:
+        v: [0]
+    filled:
+      v: [true,false]
+    which layer:
+      v: [1]

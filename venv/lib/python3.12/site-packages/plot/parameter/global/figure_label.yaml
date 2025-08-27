@@ -1,0 +1,34 @@
+figure:
+  label:
+    content:
+      v: [~]
+    font:
+      size:
+        v: [12]
+      weight:
+        v: [500]
+    alignment:
+      horizontal:
+        v: [left]
+      vertical:
+        v: [center]
+    rotation:
+      v: [0]
+    box:
+      face color:
+        v: ['w']
+      edge color:
+        v: ['w']
+      opacity:
+        v: [0.8]
+      padding:
+        v: [0.2]
+      line:
+        width:
+          v: [1]
+        style:
+          v: [solid]
+      shape:
+        v: ['square']
+      anchor:
+        v: [[0.01, 0.90]]

@@ -1,0 +1,339 @@
+figure:
+  __: figure
+  label:
+    __: label
+    alignment:
+      __: alignment
+      horizontal:
+        __: horizontal
+        v: [left]
+      vertical:
+        __: vertical
+        v: [center]
+    box:
+      __: box
+      anchor:
+        __: anchor
+        v:
+        - [0.01, 0.9]
+      edge color:
+        __: edge_color
+        v: [w]
+      face color:
+        __: face_color
+        v: [w]
+      line:
+        __: line
+        style:
+          __: style
+          v: [solid]
+        width:
+          __: width
+          v: [1]
+      opacity:
+        __: opacity
+        v: [0.8]
+      padding:
+        __: padding
+        v: [0.2]
+      shape:
+        __: shape
+        v: [square]
+    content:
+      __: content
+      v: [null]
+    font:
+      __: font
+      size:
+        __: size
+        v: [12]
+      weight:
+        __: weight
+        v: [500]
+    rotation:
+      __: rotation
+      v: [0]
+global:
+  __: global
+  colors:
+    __: colors
+    v:
+    - ['#43474C', '#33B2FF', '#FF4D33', '#189674', '#FFB600', '#7600ED', '#1077E5',
+      '#965A18', '#96186C', '#094970', '#07F9F5', '#002CF2']
+  deps:
+    __: deps
+    latex:
+      __: latex
+      v: [false]
+    scipy:
+      __: scipy
+      v: [false]
+  figure:
+    __: figure
+    axis:
+      __: axis
+      label:
+        __: label
+        content:
+          __: content
+          x:
+            __: x
+            v: ['']
+          y:
+            __: y
+            v: ['']
+        font size:
+          __: font_size
+          x:
+            __: x
+            v: [12]
+          y:
+            __: y
+            v: [12]
+        padding:
+          __: padding
+          x:
+            __: x
+            v: [20]
+          y:
+            __: y
+            v: [25]
+      limits:
+        __: limits
+        set:
+          __: set
+          x:
+            __: x
+            v:
+            - []
+          y:
+            __: y
+            v:
+            - []
+        tight:
+          __: tight
+          x:
+            __: x
+            v: [true, false]
+          y:
+            __: y
+            v: [true, false]
+      share:
+        __: share
+        x:
+          __: x
+          v: [false, true]
+        y:
+          __: y
+          v: [false, true]
+    color:
+      __: color
+      edge:
+        __: edge
+        v: [null]
+      face:
+        __: face
+        v: [null]
+    columns:
+      __: columns
+      v: [1]
+    frame:
+      __: frame
+      show:
+        __: show
+        v: [true, false]
+    height:
+      __: height
+      v: [2.0]
+    layout:
+      __: layout
+      padding:
+        __: padding
+        figure:
+          __: figure
+          v: [0]
+        horizontal:
+          __: horizontal
+          v: [null]
+        rectangle:
+          __: rectangle
+          v:
+          - [0, 0, 1, 1]
+        vertical:
+          __: vertical
+          v: [null]
+      tight:
+        __: tight
+        v: [true, false]
+    outputs:
+      __: outputs
+      v:
+      - [out.png]
+    rows:
+      __: rows
+      v: [1]
+    save:
+      __: save
+      bounding box:
+        __: bounding_box
+        v: [null, tight]
+      dpi:
+        __: dpi
+        v: [300]
+      padding:
+        __: padding
+        v: [0]
+      transparent:
+        __: transparent
+        v: [false, true]
+    spine:
+      __: spine
+      line:
+        __: line
+        width:
+          __: width
+          v: [1.5]
+    subplot:
+      __: subplot
+      spacing:
+        __: spacing
+        horizontal:
+          __: horizontal
+          v: [null]
+        vertical:
+          __: vertical
+          v: [null]
+    title:
+      __: title
+      alignment:
+        __: alignment
+        horizontal:
+          __: horizontal
+          v: [center, left, right]
+      anchor:
+        __: anchor
+        x:
+          __: x
+          v: [null]
+        y:
+          __: y
+          v: [1.03]
+      background color:
+        __: background_color
+        v:
+        - [1, 1, 1, 0]
+      box:
+        __: box
+        cap style:
+          __: cap_style
+          v: [butt, round, projecting]
+        color:
+          __: color
+          edge:
+            __: edge
+            v: [k]
+          face:
+            __: face
+            v:
+            - [1, 1, 1, 0]
+        fill:
+          __: fill
+          v: [true, false]
+        join style:
+          __: join_style
+          v: [miter, round, bevel]
+        line:
+          __: line
+          style:
+            __: style
+            v: ['-', --, -., ':', None, ' ', '']
+          width:
+            __: width
+            v: [1]
+        tight:
+          __: tight
+          v: [false, true]
+        visible:
+          __: visible
+          v: [false, true]
+        which layer:
+          __: which_layer
+          v: [0]
+      content:
+        __: content
+        v: [null]
+      font:
+        __: font
+        color:
+          __: color
+          v: [k]
+        family:
+          __: family
+          v: [sans-serif, serif, cursive, fantasy, monospace]
+        opacity:
+          __: opacity
+          v: [1.0]
+        size:
+          __: size
+          v: [7]
+        style:
+          __: style
+          v: [normal, italic, oblique]
+        weight:
+          __: weight
+          v: [null]
+      line spacing:
+        __: line_spacing
+        v: [1]
+      rotation:
+        __: rotation
+        v: [0]
+      visible:
+        __: visible
+        v: [true, false]
+      which_layer:
+        __: which_layer
+        v: [0]
+    width:
+      __: width
+      v: [4.0]
+  text:
+  - alignment:
+      __: alignment
+      horizontal:
+        __: horizontal
+        v: [left]
+      vertical:
+        __: vertical
+        v: [center]
+    background:
+      __: background
+      color:
+        __: color
+        v: [w]
+      opacity:
+        __: opacity
+        v: [0]
+    content:
+      __: content
+      v: [null]
+    font:
+      __: font
+      color:
+        __: color
+        v: [k]
+      opacity:
+        __: opacity
+        v: [1.0]
+      size:
+        __: size
+        v: [12]
+    rotation:
+      __: rotation
+      v: [0]
+    x:
+      __: x
+      v: [0.7]
+    y:
+      __: y
+      v: [0.8]

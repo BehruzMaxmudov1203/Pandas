@@ -1,0 +1,16 @@
+data:
+  file:
+    v: [~]
+  values:
+    v: [~]
+  id:
+    v: [~]
+  plot type:
+    v: ["line","bar","matrix"]
+  which panel:
+    v: [[0,0]]
+  include columns:
+    v: [~]
+  skip rows:
+      v: [0]
+

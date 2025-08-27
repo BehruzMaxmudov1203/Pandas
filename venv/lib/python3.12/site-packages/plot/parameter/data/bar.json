@@ -1,0 +1,97 @@
+{
+  "data": {
+    "__": "data",
+    "bar": {
+      "__": "bar",
+      "align": {
+        "__": "align",
+        "v": [
+          "center",
+          "edge"
+        ]
+      },
+      "base line location": {
+        "__": "base_line_location",
+        "v": [
+          0
+        ]
+      },
+      "color": {
+        "__": "color",
+        "edge": {
+          "__": "edge",
+          "v": [
+            null
+          ]
+        },
+        "face": {
+          "__": "face",
+          "v": [
+            null
+          ]
+        }
+      },
+      "data column": {
+        "__": "data_column",
+        "x": {
+          "__": "x",
+          "v": [
+            null
+          ]
+        },
+        "y": {
+          "__": "y",
+          "v": [
+            null
+          ]
+        }
+      },
+      "line": {
+        "__": "line",
+        "width": {
+          "__": "width",
+          "v": [
+            null
+          ]
+        }
+      },
+      "location offset": {
+        "__": "location_offset",
+        "v": [
+          0
+        ]
+      },
+      "opacity": {
+        "__": "opacity",
+        "v": [
+          null
+        ]
+      },
+      "orientation": {
+        "__": "orientation",
+        "v": [
+          "vertical",
+          "horizontal"
+        ]
+      },
+      "row end": {
+        "__": "row_end",
+        "v": [
+          null
+        ]
+      },
+      "row start": {
+        "__": "row_start",
+        "v": [
+          0
+        ]
+      },
+      "width": {
+        "__": "width",
+        "v": [
+          0.8
+        ]
+      }
+    }
+  }
+}
